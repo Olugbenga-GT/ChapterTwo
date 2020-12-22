@@ -55,6 +55,9 @@ public class Exercise_Two_TwoFour {
         }
 
         else {System.out.printf("%d is the smallest number %n", fifthNum);}
+
+       double x = Math.ceil(-Math.abs(-8 + Math.floor(-5.5)));
+        System.out.printf("%f", x);
     }
 }
 
