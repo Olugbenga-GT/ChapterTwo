@@ -1,5 +1,8 @@
 public class Exercise_Two_One {
-
+    public static void main(String[] args) {
+        double y = Math.floor(543.5607);
+        System.out.printf("%f",y);
+    }
     /*2.1
     a.  Left Brace, Right Brace
     b. IF Statement
